@@ -5,7 +5,9 @@ This project is an **interactive Power BI dashboard** built from a **Data Profes
 
 ## **Dataset**
 - Survey data collected from data professionals.  
-- Key fields include **country of survey takers, job role, Avg salary, tools/languages used, and satisfaction**.  
+- Key fields include **country of survey takers, job role, Avg salary, tools/languages used, and satisfaction**.
+- The dataset used in this project is available [here](data.xlsx).
+
 
 ## **Tools Used**
 - **Power BI Desktop** for dashboard creation  
