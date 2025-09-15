@@ -28,3 +28,5 @@ This project is an **interactive Power BI dashboard** built from a **Data Profes
 4. Analyze insights and trends through **interactive visuals**.  
 
 ## **Dashboard Preview**
+![Dashboard Preview](Image.png)
+
